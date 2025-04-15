@@ -10,3 +10,6 @@ This project leverages machine learning to detect fraudulent credit card transac
 1. Clone the repo:  
    ```bash 
    git clone https://github.com/AZhuk30/Applied-Data-Mining.git && cd Applied-Data-Mining  
+
+
+pip install -r requirements.txt  # pandas, scikit-learn, matplotlib  
