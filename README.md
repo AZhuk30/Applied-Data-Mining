@@ -1,4 +1,12 @@
-# Applied-Data-Mining
-Applied Data Mining Project
-With the growing use of digital payments, credit card fraud has become a serious concern for both consumers and financial institutions. With the increase in credit card transactions comes more attempts to exploit these systems and users. The ability to accurately and quickly identify fraudulent transactions is essential to protecting users’ sensitive information and maintaining trust between customers and companies. Data mining can offer powerful tools and algorithms for analyzing large amounts of transaction data to accurately identify fraud (Dal Pozzolo et al., 2018). 
-This paper evaluates a dataset containing data for 100,000 credit card transactions collected from October 13th to October 14th, 2020 (Verna, 2023).
+Fraud Detection in Credit Card Transactions  
+**Course**: ADS-502: Data Mining | **University of San Diego**  
+**Team**: Alexander Zhuk, Rebecca Chavez, Shivam Patel  
+**GitHub**: [https://github.com/AZhuk30/Applied-Data-Mining/](https://github.com/AZhuk30/Applied-Data-Mining/)  
+
+##  Overview  
+This project leverages machine learning to detect fraudulent credit card transactions using a dataset of 100,000 records. We evaluated five models (Logistic Regression, C5.0, Random Forest, Naive Bayes, CART) and identified **Random Forest** as the optimal solution with **95.94% accuracy** and **86.85% precision**.  
+
+## Installation  
+1. Clone the repo:  
+   ```bash 
+   git clone https://github.com/AZhuk30/Applied-Data-Mining.git && cd Applied-Data-Mining  
